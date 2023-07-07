@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="514618db-8a2d-48a7-aa7b-438291591857"
+ARG AUUID="906d3484-7eef-4362-b696-fa8930b14b59"
 ARG CADDYIndexPage="https://github.com/StartBootstrap/startbootstrap-new-age/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
